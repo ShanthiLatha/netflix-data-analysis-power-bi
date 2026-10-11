@@ -1,0 +1,36 @@
+# Netflix Data Analysis | Excel & Power BI
+
+## Project Overview
+This project analyzes Netflix data to explore content distribution, movies and TV shows, release years, genres, and country-wise content availability.
+
+## Tools Used
+- Microsoft Excel
+- Power BI
+- Power Query (if used)
+
+## Project Workflow
+1. Collected and reviewed the dataset.
+2. Cleaned and prepared the data in Excel.
+3. Imported the data into Power BI.
+4. Created visualizations and an interactive dashboard.
+5. Identified key insights from the data.
+
+## Dashboard Preview
+Add your dashboard screenshot here.
+
+## Key Insights
+- Compared the distribution of movies and TV shows.
+- Explored content by country and genre.
+- Analyzed content trends by release year.
+
+*Update these insights to match your actual dashboard.*
+
+## Files Included
+- `Netflix_Cleaned_Data.xlsx` — Excel dataset
+- `Netflix_Dashboard.pbix` — Power BI report
+- `dashboard_screenshot.png` — Dashboard preview
+
+## Author
+Data Analytics Portfolio Project
+
+Skills: Excel | Power BI | Data Cleaning | Data Visualization
